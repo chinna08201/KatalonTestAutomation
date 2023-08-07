@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Career Opportunities_splide__arrow s_b923e1</name>
+   <tag></tag>
+   <elementGuidId>8405b1ec-c480-47d6-a429-eb2073b0a06c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.JgeneralFooterSliderNaviInner > div.splide__arrows.splide__arrows--ltr > button.splide__arrow.splide__arrow--next</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[18]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bb7da958-f662-4bf8-848a-be1b6e69866e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>splide__arrow splide__arrow--next</value>
+      <webElementGuid>56be1c15-4223-4f75-aa63-350b15e117cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c55ee23b-cdec-4442-9231-3009ea6b4e0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Next slide</value>
+      <webElementGuid>fa38da80-8dfb-4691-be99-945163b7263e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>JgeneralSlider-track</value>
+      <webElementGuid>f815def9-4674-42c6-a8e5-5fdd1f10aa89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;JgeneralSlider&quot;)/div[@class=&quot;JgeneralFooterSliderNavi&quot;]/div[@class=&quot;JgeneralFooterSliderNaviInner&quot;]/div[@class=&quot;splide__arrows splide__arrows--ltr&quot;]/button[@class=&quot;splide__arrow splide__arrow--next&quot;]</value>
+      <webElementGuid>be3f6c8d-1417-41ed-bc4a-959050106d72</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[18]</value>
+      <webElementGuid>ed89b27d-92f3-4e9e-a38c-e46c6a102e4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='JgeneralSlider']/div[2]/div/div/button[2]</value>
+      <webElementGuid>bd71ebfe-1242-4eca-a99b-bd3d41dfd5d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Career Opportunities'])[5]/following::button[2]</value>
+      <webElementGuid>84f2d492-5be2-4bd0-9984-9a7525a1c8d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Governance and Ethics'])[3]/following::button[2]</value>
+      <webElementGuid>198ff1a9-c060-4e23-86ab-27d99dbac2fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::button[1]</value>
+      <webElementGuid>e8c97cfd-f10c-40d0-aa01-56798273285b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sustainability'])[3]/preceding::button[1]</value>
+      <webElementGuid>28c265af-84b8-4bc9-ba44-aa7757053e41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div/div/section/div[2]/div/div/button[2]</value>
+      <webElementGuid>78f4faa7-0fa8-42ea-89c5-04674d826130</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>7e7aa692-41f9-4256-9686-b7f90a9f1cc7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

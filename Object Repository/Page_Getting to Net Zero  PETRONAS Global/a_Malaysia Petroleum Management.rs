@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Malaysia Petroleum Management</name>
+   <tag></tag>
+   <elementGuidId>41127c48-2b1b-4f00-8f87-6ebaf199afcb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-link--progressing-energy-malaysia-petroleum-management</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-wrapper']/div/div/div[2]/div[2]/ul/li[3]/div/div/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>54dc6451-08a5-44c6-ab8f-7eaefd4a13f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/progressing-energy/malaysia-petroleum-management</value>
+      <webElementGuid>c57647bc-0ca6-46a1-bba1-33d3795d1ab2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link--progressing-energy-malaysia-petroleum-management</value>
+      <webElementGuid>8385db02-9beb-4981-874f-c318b767f0e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-drupal-link-system-path</name>
+      <type>Main</type>
+      <value>node/653</value>
+      <webElementGuid>00780f27-10d9-4acd-a14c-f20f85d2830c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Malaysia Petroleum Management</value>
+      <webElementGuid>8aa28422-8c65-41d1-ae89-44a183adaed1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;JindexNaviContainer active show&quot;]/div[@class=&quot;JindexNaviContainerInner&quot;]/div[@class=&quot;JindexNaviRight&quot;]/div[@class=&quot;JindexNaviRightBtm&quot;]/ul[@class=&quot;clearfix JindexNaviRightBtmNavi&quot;]/li[@class=&quot;JhasSub&quot;]/div[@class=&quot;JhasSubInner&quot;]/div[@class=&quot;JhasSubInnerInner&quot;]/ul[1]/li[4]/a[@class=&quot;nav-link--progressing-energy-malaysia-petroleum-management&quot;]</value>
+      <webElementGuid>cf60040f-2563-4412-9b73-80d5f4550dd3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div/div/div[2]/div[2]/ul/li[3]/div/div/ul/li[4]/a</value>
+      <webElementGuid>278740b9-b7fc-4cb7-8352-8209fc1b93fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Malaysia Petroleum Management')]</value>
+      <webElementGuid>89546977-5654-4155-b01c-89d4924f34be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Development &amp; Production'])[1]/following::a[1]</value>
+      <webElementGuid>0a143e6c-5711-4a32-ae31-f9aecaa72ef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exploration'])[1]/following::a[2]</value>
+      <webElementGuid>a8816439-5e50-4505-b98f-e495a1c9e695</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refining'])[1]/preceding::a[1]</value>
+      <webElementGuid>6bfadd01-9518-4937-8fc0-15caf44e12dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chemicals'])[1]/preceding::a[2]</value>
+      <webElementGuid>23e797bb-37b9-4756-9327-46375822b52f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Malaysia Petroleum Management']/parent::*</value>
+      <webElementGuid>5c36a8ae-b048-4f84-b9ba-704f5ce77c5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/progressing-energy/malaysia-petroleum-management')]</value>
+      <webElementGuid>6911bcfa-5674-4eea-bbfa-027df6b0b48a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[3]/div/div/ul/li[4]/a</value>
+      <webElementGuid>7d93bcfc-c027-41a9-82fa-f1e97f948852</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/progressing-energy/malaysia-petroleum-management' and (text() = 'Malaysia Petroleum Management' or . = 'Malaysia Petroleum Management')]</value>
+      <webElementGuid>2e6d4082-5a38-4288-bf09-e30a590df8eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

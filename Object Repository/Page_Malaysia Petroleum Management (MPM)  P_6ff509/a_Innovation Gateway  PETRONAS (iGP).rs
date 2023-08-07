@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Innovation Gateway  PETRONAS (iGP)</name>
+   <tag></tag>
+   <elementGuidId>1aff4326-5683-4f85-926a-e7e96eac9061</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-link-https--wwwpetronascom-innovation-petronas-</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-wrapper']/div/div/div[2]/div[2]/ul/li[3]/div/div/ul/li[12]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3175251e-0966-4662-9dea-806f65ba156d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.petronas.com/innovation-petronas/</value>
+      <webElementGuid>6bd73e6b-bf39-4ae7-a182-fd1cf4903cd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>3abc7070-74db-4448-bb82-83cca72214bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link-https--wwwpetronascom-innovation-petronas-</value>
+      <webElementGuid>1fa0bae0-126c-4dfb-9c21-8732ce2dd4f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Innovation Gateway @ PETRONAS (iG@P)</value>
+      <webElementGuid>9f29d0ba-36cd-4f3e-8aed-62ddedc315db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;JindexNaviContainer active show&quot;]/div[@class=&quot;JindexNaviContainerInner&quot;]/div[@class=&quot;JindexNaviRight&quot;]/div[@class=&quot;JindexNaviRightBtm&quot;]/ul[@class=&quot;clearfix JindexNaviRightBtmNavi&quot;]/li[@class=&quot;active JhasSub&quot;]/div[@class=&quot;JhasSubInner&quot;]/div[@class=&quot;JhasSubInnerInner&quot;]/ul[1]/li[12]/a[@class=&quot;nav-link-https--wwwpetronascom-innovation-petronas-&quot;]</value>
+      <webElementGuid>84312467-3984-4cbe-982c-ff0b57c68bfb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div/div/div[2]/div[2]/ul/li[3]/div/div/ul/li[12]/a</value>
+      <webElementGuid>2d9607f7-b9b1-411a-941c-92502066308a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Innovation Gateway @ PETRONAS (iG@P)')]</value>
+      <webElementGuid>e317bacb-415b-42ac-85d3-21dc5cd32152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gas &amp; Power'])[1]/following::a[1]</value>
+      <webElementGuid>d3c01e4e-76d3-4d28-9da7-c6f18e11b2f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liquefied Natural Gas (LNG)'])[1]/following::a[2]</value>
+      <webElementGuid>63c64141-f229-4328-bfc6-7f551f494ae3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PETRONAS Ventures'])[1]/preceding::a[1]</value>
+      <webElementGuid>8d25fd04-c766-4d89-9219-1dc98f7a8a30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Technical Solutions'])[1]/preceding::a[2]</value>
+      <webElementGuid>c152c50a-ea79-43e5-83ed-74df16034518</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Innovation Gateway @ PETRONAS (iG@P)']/parent::*</value>
+      <webElementGuid>81de216b-689b-426e-92c3-d166ee8f2918</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.petronas.com/innovation-petronas/')]</value>
+      <webElementGuid>48fdcf69-7ec8-4741-82c2-7261acb43fb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[12]/a</value>
+      <webElementGuid>02bd607b-87f3-4140-a90f-b0192f39c571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.petronas.com/innovation-petronas/' and (text() = 'Innovation Gateway @ PETRONAS (iG@P)' or . = 'Innovation Gateway @ PETRONAS (iG@P)')]</value>
+      <webElementGuid>c1bc856f-0b46-4ede-85ef-8f895e58bbf0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

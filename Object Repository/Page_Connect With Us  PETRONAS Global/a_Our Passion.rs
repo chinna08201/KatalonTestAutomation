@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Our Passion</name>
+   <tag></tag>
+   <elementGuidId>0d5b08e9-0d74-4486-b713-24699718b2f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-link.nav-link--our-passion</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-wrapper']/div/div/div[2]/div[2]/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>457dae7d-7ba6-4c0d-a96f-44d44e8997e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/our-passion</value>
+      <webElementGuid>8e68d7c7-7456-4b4b-a0d2-d548de7524a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link nav-link--our-passion</value>
+      <webElementGuid>7ae8a525-6bbd-4b52-bbc7-5c11c6573473</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-drupal-link-system-path</name>
+      <type>Main</type>
+      <value>node/95</value>
+      <webElementGuid>71bfeba1-c4cc-4126-b971-5d6eff219a92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Our Passion</value>
+      <webElementGuid>92f3ec8d-6052-45f2-bb6d-ddaf636403d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;JindexNaviContainer active&quot;]/div[@class=&quot;JindexNaviContainerInner&quot;]/div[@class=&quot;JindexNaviRight&quot;]/div[@class=&quot;JindexNaviRightBtm&quot;]/ul[@class=&quot;clearfix JindexNaviRightBtmNavi&quot;]/li[1]/a[@class=&quot;nav-link nav-link--our-passion&quot;]</value>
+      <webElementGuid>605ef4a2-7eeb-4779-99a2-b3fe309376d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div/div/div[2]/div[2]/ul/li/a</value>
+      <webElementGuid>48014bac-f29f-480e-b70e-de68f63f12bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Our Passion')]</value>
+      <webElementGuid>e5ac3987-ad24-4221-b9b6-0a92aab90b42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Whistleblowing'])[1]/following::a[4]</value>
+      <webElementGuid>b3694f53-0ab7-453d-8251-f839900dd956</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Licensing &amp; Procurement'])[1]/following::a[5]</value>
+      <webElementGuid>cd468a78-96ce-4ac3-9e7b-471d0f1cc92d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sustainability'])[1]/preceding::a[1]</value>
+      <webElementGuid>931f2483-a83b-4039-9dad-782c2ca78a95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[5]/preceding::a[2]</value>
+      <webElementGuid>92b5ba29-efdc-4898-b726-6f9d5a606697</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Our Passion']/parent::*</value>
+      <webElementGuid>f62bf090-55f2-41c9-b65f-11b6eb8dcf31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/our-passion')]</value>
+      <webElementGuid>b29632c6-6598-48a0-9211-251429a49d4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/ul/li/a</value>
+      <webElementGuid>d572aff1-151a-4296-a8df-1ceba4609361</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/our-passion' and (text() = 'Our Passion' or . = 'Our Passion')]</value>
+      <webElementGuid>c591e2cc-e993-4605-b542-767073e217ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

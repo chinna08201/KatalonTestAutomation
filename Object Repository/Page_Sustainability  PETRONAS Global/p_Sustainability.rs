@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Sustainability</name>
+   <tag></tag>
+   <elementGuidId>9ac46c68-35c5-4f85-a9b5-c15bacc416eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-wrapper']/div[4]/div/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.JindexImgContent > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>d0a28e04-658d-4e75-8af3-1f92f5548cd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sustainability</value>
+      <webElementGuid>9f7f95e1-c7a6-4b97-b696-4e6dd23e9cfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;pelement-id--f9b9335 paragraph paragraph--type--section-banner-with-animation paragraph--view-mode--default JindexContainer JmasterRow1Container&quot;]/div[@class=&quot;JindexContainerInner&quot;]/div[@class=&quot;JindexImgContent&quot;]/p[1]</value>
+      <webElementGuid>14b146f6-db94-4b9e-9de7-547d2c4e972c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div[4]/div/div[2]/p</value>
+      <webElementGuid>088b06ce-52b8-42ee-afd4-dbb1f4dda86b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TikTok'])[2]/following::p[1]</value>
+      <webElementGuid>e8387672-b046-4761-9367-837842e189dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LinkedIn'])[2]/following::p[1]</value>
+      <webElementGuid>9d00a19b-08e9-4699-a7ad-ec090bc95714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tan Sri Tengku Muhammad Taufik'])[1]/preceding::p[2]</value>
+      <webElementGuid>756b62f9-3503-4f09-9729-ead7a688b077</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>98aeac8b-b095-4d75-86a5-115bdf57630b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Sustainability' or . = 'Sustainability')]</value>
+      <webElementGuid>bcdd2c5d-0cc6-42ad-a24c-f9101cba25c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

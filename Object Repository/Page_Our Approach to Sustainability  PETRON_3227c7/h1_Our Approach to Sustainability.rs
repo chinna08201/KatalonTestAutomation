@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Our Approach to Sustainability</name>
+   <tag></tag>
+   <elementGuidId>9ecfcaea-6dc8-41c3-a82e-21e305e06836</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-wrapper']/div[4]/div/div[3]/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>3f8b1ee8-c95e-4585-9f25-1821393f58c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Our Approach to Sustainability</value>
+      <webElementGuid>c4ecbb57-d169-43f5-92ba-c655edd4545b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;pelement-id--9edc2978 paragraph paragraph--type--inner-banner-image paragraph--view-mode--default JindexContainer JbopRow1Container&quot;]/div[@class=&quot;JindexContainerInner&quot;]/div[@class=&quot;JindexImgContent&quot;]/h1[1]</value>
+      <webElementGuid>a685c55b-0325-46ad-a4a1-a7be58e1d537</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div[4]/div/div[3]/h1</value>
+      <webElementGuid>f4f99635-d5ed-4783-84df-4dd524f28aea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TikTok'])[2]/following::h1[1]</value>
+      <webElementGuid>12577380-f472-4f69-ae55-2dae5a0a5823</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LinkedIn'])[2]/following::h1[1]</value>
+      <webElementGuid>b40cdeb1-1053-4f17-9ef1-4ffbb3aa59aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sustainability Governance'])[1]/preceding::h1[1]</value>
+      <webElementGuid>31c39e01-390d-440e-9665-b1e40405c86d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Materiality'])[1]/preceding::h1[1]</value>
+      <webElementGuid>09c2a803-daa2-47dc-8037-0b0f9d7f01f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>58eb192b-c4f6-4995-ac6d-0afbae9f3eb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Our Approach to Sustainability' or . = 'Our Approach to Sustainability')]</value>
+      <webElementGuid>af9a8e60-d2af-43cd-8c43-ec4b22f45bea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

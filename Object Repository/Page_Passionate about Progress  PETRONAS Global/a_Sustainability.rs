@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sustainability</name>
+   <tag></tag>
+   <elementGuidId>70429d63-76d0-4b0b-8614-455d2d9d4529</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.clearfix.JindexNaviRightBtmNavi > li.JhasSub > a.nav-link.nav-link-</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-wrapper']/div/div/div[2]/div[2]/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>db4f9073-9c32-4b4d-9f58-8cafd36673a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link nav-link-</value>
+      <webElementGuid>97e0970d-6e5a-4621-b234-d43124aba0af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sustainability</value>
+      <webElementGuid>68861deb-9ed5-4db7-8eca-db9eb6cd709c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;JindexNaviContainer active&quot;]/div[@class=&quot;JindexNaviContainerInner&quot;]/div[@class=&quot;JindexNaviRight&quot;]/div[@class=&quot;JindexNaviRightBtm&quot;]/ul[@class=&quot;clearfix JindexNaviRightBtmNavi&quot;]/li[@class=&quot;JhasSub&quot;]/a[@class=&quot;nav-link nav-link-&quot;]</value>
+      <webElementGuid>c25aab14-01cc-497a-9f69-bc2f5812e0b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div/div/div[2]/div[2]/ul/li[2]/a</value>
+      <webElementGuid>d353726a-9c1c-4514-a95f-2de7e419ca5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sustainability')]</value>
+      <webElementGuid>61328d97-40f7-4e6e-8b89-73af11bf3356</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Passion'])[1]/following::a[1]</value>
+      <webElementGuid>0566f175-d0e1-493c-ba5c-fff7bb6fd7d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Whistleblowing'])[1]/following::a[5]</value>
+      <webElementGuid>6590c25a-7f4f-4026-9743-2a85adb5912b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[5]/preceding::a[1]</value>
+      <webElementGuid>9e90d2eb-44fb-49cf-897c-2e1688e697e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sustainability Reporting'])[1]/preceding::a[2]</value>
+      <webElementGuid>e41b6308-5e61-4d2b-809f-0800c5367267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sustainability']/parent::*</value>
+      <webElementGuid>d9a10ed1-1746-4fb2-9985-167f62f11057</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[36]</value>
+      <webElementGuid>1733537b-1d53-4da3-bf46-ec3d5d422328</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/ul/li[2]/a</value>
+      <webElementGuid>496f7017-fcce-4394-b2c7-99eeceb39cdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Sustainability' or . = 'Sustainability')]</value>
+      <webElementGuid>f5c96b7a-82c1-48e6-8396-f7f41ca6e798</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

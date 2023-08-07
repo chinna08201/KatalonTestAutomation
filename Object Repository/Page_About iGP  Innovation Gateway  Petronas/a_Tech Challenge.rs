@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tech Challenge</name>
+   <tag></tag>
+   <elementGuidId>55f157f5-6883-4e26-a7cb-770d37a0f75c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/nav/div/section/ul/div[2]/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4b091ddf-6f39-42ec-a51d-a989a784784e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/innovation-petronas/tech-challenge</value>
+      <webElementGuid>b8ecef3b-3a4b-4b0d-bf1f-ccb9dee75e7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-drupal-link-system-path</name>
+      <type>Main</type>
+      <value>node/25</value>
+      <webElementGuid>1906c6b2-06a5-44d3-94a0-4ac229f490e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tech Challenge</value>
+      <webElementGuid>496e78f7-464b-4a17-838b-dae31a060499</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;header&quot;]/nav[@class=&quot;navbar navbar-light navbar-expand-sm&quot;]/div[@class=&quot;navbar-header&quot;]/section[@class=&quot;row region region-header-menu&quot;]/ul[@class=&quot;clearfix navbar-nav main-menu&quot;]/div[@class=&quot;menu&quot;]/li[@class=&quot;nav-item&quot;]/a[1]</value>
+      <webElementGuid>906c2910-fa16-40e3-9a61-9243914f52ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/nav/div/section/ul/div[2]/li/a</value>
+      <webElementGuid>9a974ae3-d416-4ba2-8526-d6c36ac403cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tech Challenge')]</value>
+      <webElementGuid>a3c043c4-3475-42de-94fd-bd60ab308888</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About iG@P'])[1]/following::a[1]</value>
+      <webElementGuid>76890a44-2ac9-45a8-9887-fa2eeef59c58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to main content'])[1]/following::a[3]</value>
+      <webElementGuid>ff2ff932-632d-4b7c-9d10-33d5a258c44a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tech Marketplace'])[1]/preceding::a[1]</value>
+      <webElementGuid>5ee4f8f0-793f-41cf-9623-08ab15156d8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tech Collaboration'])[1]/preceding::a[2]</value>
+      <webElementGuid>956a4589-e020-4047-a94b-6d7c0b7779bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tech Challenge']/parent::*</value>
+      <webElementGuid>a51a619e-82cc-46c1-88a7-554f3536b9b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/innovation-petronas/tech-challenge')]</value>
+      <webElementGuid>c7a4a771-77bb-491d-bb10-772368a98826</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/li/a</value>
+      <webElementGuid>dc63c7d1-fc58-428d-be0c-e330417c8f82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/innovation-petronas/tech-challenge' and (text() = 'Tech Challenge' or . = 'Tech Challenge')]</value>
+      <webElementGuid>ee2db780-2a49-4727-9de8-148e544bcffd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

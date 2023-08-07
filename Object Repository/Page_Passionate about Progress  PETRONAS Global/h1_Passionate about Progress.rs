@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Passionate about Progress</name>
+   <tag></tag>
+   <elementGuidId>3d1f9a39-86b1-493a-a934-ac1675b036d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-wrapper']/div[4]/div/div/div[3]/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>1330e395-27a8-42ee-8211-01fb7cf42dab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Passionate about Progress</value>
+      <webElementGuid>cdb3fc92-3cd2-4a87-a313-3d83ecee20f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;JindexHomeDesktop&quot;]/div[@class=&quot;JindexContainer&quot;]/div[@class=&quot;JindexContainerInner&quot;]/div[@class=&quot;JindexImgContent&quot;]/h1[1]</value>
+      <webElementGuid>2695ccc4-14f5-4b68-895c-47c1dd0597bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div[4]/div/div/div[3]/h1</value>
+      <webElementGuid>d04a626b-c036-4857-9fb6-cb1bb2c0a868</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TikTok'])[2]/following::h1[1]</value>
+      <webElementGuid>f1d3f40e-15ce-499e-a7b7-7ba0be032ebe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LinkedIn'])[2]/following::h1[1]</value>
+      <webElementGuid>21ea0667-021a-420c-9ba8-093915f6289e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advocating Transparency'])[1]/preceding::h1[1]</value>
+      <webElementGuid>1b90639e-472a-4db5-928f-c10146f51c02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PETRONAS Integrated Report 2022'])[2]/preceding::h1[1]</value>
+      <webElementGuid>d8c4bd0e-2e0c-4c92-ba57-9c8cd9252b7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Passionate about Progress']/parent::*</value>
+      <webElementGuid>687c5917-be96-4b88-97c6-4e8a006a9f9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>72c667cd-ac33-40c1-96d1-d23fe0193add</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Passionate about Progress' or . = 'Passionate about Progress')]</value>
+      <webElementGuid>35a95cd9-af59-4b53-8825-5e3e45df612f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_About iGP</name>
+   <tag></tag>
+   <elementGuidId>7c1e7f96-c390-4526-96e5-e2c9812201ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block-igap-content']/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>9d151fb4-0f7a-44fd-856f-085c8d97d344</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>About iG@P</value>
+      <webElementGuid>5a9c9ed2-7ca7-4c3b-8652-f9b5fdf859c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-igap-content&quot;)/div[@class=&quot;content&quot;]/div[@class=&quot;landing-page&quot;]/div[@class=&quot;field field--name-field-paragraphs field--type-entity-reference-revisions field--label-hidden field__items&quot;]/div[@class=&quot;field__item&quot;]/div[@class=&quot;one-column&quot;]/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10 offset-md-1&quot;]/div[@class=&quot;onecolumn padding-default&quot;]/div[1]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;landing-section-title mb-4&quot;]/h1[1]</value>
+      <webElementGuid>79a0a0b5-cd95-4739-98fa-278c2d9a11ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block-igap-content']/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/div/div/h1</value>
+      <webElementGuid>1652b015-f8a4-4810-bca2-1229e0cd0312</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[3]/following::h1[1]</value>
+      <webElementGuid>0b15722a-a59f-47aa-ab8c-3959a687ead6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[3]/following::h1[1]</value>
+      <webElementGuid>a04e563d-17a3-4942-a06c-664f73e9b1e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pushing our boundaries in order to be a progressive energy company.'])[1]/preceding::h1[1]</value>
+      <webElementGuid>13fc0d75-092c-4d3e-b910-fc2f0fdc3b6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PETRONAS'])[1]/preceding::h1[1]</value>
+      <webElementGuid>45f30ab1-c046-436f-a8bb-e836e31b121f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>827b99fd-35ef-4acc-849f-d8f42e637052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'About iG@P' or . = 'About iG@P')]</value>
+      <webElementGuid>166722b4-2bcd-40e2-bbdc-9cc257cf97de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

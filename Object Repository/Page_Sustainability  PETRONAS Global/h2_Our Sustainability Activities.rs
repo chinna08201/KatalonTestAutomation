@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Our Sustainability Activities</name>
+   <tag></tag>
+   <elementGuidId>25203afe-19bf-4c52-bb95-91c162810138</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-wrapper']/div[7]/div/div[2]/div[3]/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>5eacb3e1-961a-4815-9c91-cb067b4d2fb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aos</name>
+      <type>Main</type>
+      <value>fade-right</value>
+      <webElementGuid>25b64330-b5c2-4d51-a98e-23baed82468f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aos-anchor-placement</name>
+      <type>Main</type>
+      <value>top-bottom</value>
+      <webElementGuid>8b2090c8-f0cf-4781-a014-89d53dc3bfa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>aos-init aos-animate</value>
+      <webElementGuid>a8c18f17-bac7-4ca9-a029-b57dd2dee1a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Our Sustainability Activities</value>
+      <webElementGuid>ae314eb3-2d12-461b-96a0-de1f42bcdfe9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;pelement-id--4000340 JsustainabilityRow4 paragraph paragraph--type--section-video-gallery paragraph--view-mode--default JmasterRow6Container&quot;]/div[@class=&quot;JmasterRow6ContainerInner&quot;]/div[@class=&quot;JmasterRow6Content&quot;]/div[@class=&quot;JmasterRow6ContentInner&quot;]/div[@class=&quot;JmasterRow6ContentInner2&quot;]/h2[@class=&quot;aos-init aos-animate&quot;]</value>
+      <webElementGuid>c43bd882-ad0f-4a61-8c70-855cc3a04d1e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div[7]/div/div[2]/div[3]/div/h2</value>
+      <webElementGuid>426ff103-1035-4ce3-a0aa-6228b233a1e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Sustainability Activities'])[1]/following::h2[1]</value>
+      <webElementGuid>e4637c8f-bd15-4c30-bd0b-a1b08a2d1330</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Four Sustainability Lenses'])[2]/following::h2[2]</value>
+      <webElementGuid>a4c8562c-6d21-4a8a-913b-c8af4eb400c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Sustainability Targets'])[1]/preceding::h2[1]</value>
+      <webElementGuid>aba110db-36bd-4309-88d7-c4933f0765ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Increase renewable energy capacity to 3,000MW by 2024'])[1]/preceding::h2[2]</value>
+      <webElementGuid>08a6c09a-1b69-4049-bc06-fafc648e1ce7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/h2</value>
+      <webElementGuid>15854747-baa2-4266-9c4d-87ec2873dbb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Our Sustainability Activities' or . = 'Our Sustainability Activities')]</value>
+      <webElementGuid>513757f1-8db2-4cfe-ba08-5835a929dd3b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

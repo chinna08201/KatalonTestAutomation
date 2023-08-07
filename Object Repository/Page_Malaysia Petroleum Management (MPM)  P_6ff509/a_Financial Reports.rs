@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Financial Reports</name>
+   <tag></tag>
+   <elementGuidId>d0bd58bf-17fd-4f7c-b886-e5d65a7d0f60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-link--media-reportscategory-media-reportstype2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-wrapper']/div/div/div[2]/div[2]/ul/li[4]/div/div/ul/li[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>945f9d8c-6a6a-44e7-8824-7e66f90d7d17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/media/reports?category=/media/reports&amp;type=2</value>
+      <webElementGuid>1831e76d-bb4d-4f27-9e1b-929d12c642ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link--media-reportscategory-media-reportstype2</value>
+      <webElementGuid>8a756d5c-fdfe-4c6f-b1bc-73395c8711af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-drupal-link-query</name>
+      <type>Main</type>
+      <value>{&quot;category&quot;:&quot;\/media\/reports&quot;,&quot;type&quot;:&quot;2&quot;}</value>
+      <webElementGuid>9d6563db-466f-4379-9717-de10175868d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Financial Reports</value>
+      <webElementGuid>578e504b-113b-4165-91a5-90cdd8612b2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;JindexNaviContainer active show&quot;]/div[@class=&quot;JindexNaviContainerInner&quot;]/div[@class=&quot;JindexNaviRight&quot;]/div[@class=&quot;JindexNaviRightBtm&quot;]/ul[@class=&quot;clearfix JindexNaviRightBtmNavi&quot;]/li[@class=&quot;JhasSub&quot;]/div[@class=&quot;JhasSubInner&quot;]/div[@class=&quot;JhasSubInnerInner&quot;]/ul[1]/li[6]/a[@class=&quot;nav-link--media-reportscategory-media-reportstype2&quot;]</value>
+      <webElementGuid>7747c6f0-fc41-4329-a8d1-5b327728b1d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div/div/div[2]/div[2]/ul/li[4]/div/div/ul/li[6]/a</value>
+      <webElementGuid>90d047b9-2367-4344-bef0-daf28425b1ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Financial Reports')]</value>
+      <webElementGuid>d6c7370c-24cd-47a0-9eb6-e4bab554e6f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Integrated and Annual Reports'])[1]/following::a[1]</value>
+      <webElementGuid>b387385e-f2f4-4faf-95df-e45510c803ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Financial Results'])[1]/following::a[2]</value>
+      <webElementGuid>c1ccefd8-fa8f-4b3d-82aa-118e996cff35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Financial Operational Reports'])[1]/preceding::a[1]</value>
+      <webElementGuid>bf8dfbde-4bfe-4e9c-981b-99e19d2e9e9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sustainability Reports'])[1]/preceding::a[2]</value>
+      <webElementGuid>c47cf366-496d-4b31-8bf6-350bfa2e7980</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Financial Reports']/parent::*</value>
+      <webElementGuid>07a23270-9a4b-48f8-bf4c-168e71ff651b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/media/reports?category=/media/reports&amp;type=2')]</value>
+      <webElementGuid>404654db-6cdd-4912-8b5a-0b5dce783cd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[4]/div/div/ul/li[6]/a</value>
+      <webElementGuid>97fcc2db-d10b-4235-a890-b3fa75c360fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/media/reports?category=/media/reports&amp;type=2' and (text() = 'Financial Reports' or . = 'Financial Reports')]</value>
+      <webElementGuid>c6aa9014-07a4-43bb-8b6e-320e67013965</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

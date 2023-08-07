@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Our Sustainability Activities_JmasterRo_c9c5a2</name>
+   <tag></tag>
+   <elementGuidId>438f9205-c608-4532-ad51-6bea10a3528c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.JmasterRow6ContentSlide.JmasterRow6ContentSlideD</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-wrapper']/div[7]/div/div[2]/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>650320dc-74ac-4253-a2a4-78d793f12c88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>JmasterRow6ContentSlide JmasterRow6ContentSlideD</value>
+      <webElementGuid>e4c9307f-3fe8-4ff2-a861-26f6c5b1a981</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;pelement-id--4000340 JsustainabilityRow4 paragraph paragraph--type--section-video-gallery paragraph--view-mode--default JmasterRow6Container&quot;]/div[@class=&quot;JmasterRow6ContainerInner&quot;]/div[@class=&quot;JmasterRow6Content&quot;]/div[@class=&quot;JmasterRow6ContentSlide JmasterRow6ContentSlideD&quot;]</value>
+      <webElementGuid>5c2fb318-af97-4661-8919-817e6c1105b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div[7]/div/div[2]/div[4]</value>
+      <webElementGuid>71e423b8-1c75-4a86-822f-2a8d5f6333ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Sustainability Activities'])[2]/following::div[2]</value>
+      <webElementGuid>f9a9f035-80a6-44ed-a201-cb55da6f2933</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Sustainability Activities'])[1]/following::div[7]</value>
+      <webElementGuid>f82ab7f8-30bb-4a36-955c-bdde92099406</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Sustainability Targets'])[1]/preceding::div[34]</value>
+      <webElementGuid>26699539-215b-430c-aeb0-e68e21288c24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Increase renewable energy capacity to 3,000MW by 2024'])[1]/preceding::div[37]</value>
+      <webElementGuid>66938d31-3d75-49db-baf5-6d4ece700b09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]</value>
+      <webElementGuid>cf1a19c6-a3a3-4269-88d6-a494dad81af3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

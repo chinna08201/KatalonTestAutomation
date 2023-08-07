@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Malaysia Petroleum Management</name>
+   <tag></tag>
+   <elementGuidId>d9e75e83-2914-4e4f-9821-ae1d1816ebaa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-wrapper']/div[4]/div/div[3]/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>3dc43810-e45e-44a8-8d3d-3eeeaa49ef91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Malaysia Petroleum Management</value>
+      <webElementGuid>a4028096-6627-4e22-b837-26dcb64ece06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;pelement-id--e1711033 paragraph paragraph--type--inner-banner-image paragraph--view-mode--default JindexContainer JmasterInnerRow1Container&quot;]/div[@class=&quot;JindexContainerInner&quot;]/div[@class=&quot;JindexImgContent&quot;]/h1[1]</value>
+      <webElementGuid>9d05243f-6100-4ede-b00d-5404f938e585</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div[4]/div/div[3]/h1</value>
+      <webElementGuid>8e8f235c-2154-4eb8-8922-5dd4f1e0c1a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TikTok'])[2]/following::h1[1]</value>
+      <webElementGuid>a0689b33-892f-4143-b405-254afe33f89e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LinkedIn'])[2]/following::h1[1]</value>
+      <webElementGuid>06497185-dd31-4597-b5ae-faf5a728bfc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Malaysia Petroleum Management (MPM)'])[1]/preceding::h1[1]</value>
+      <webElementGuid>d96239f7-1d54-4234-a161-a7ac201eae35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View MPM'])[1]/preceding::h1[1]</value>
+      <webElementGuid>674d1d3b-05dd-47a2-b673-1dcda19cfd08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>317fc1a1-1eb9-4a2e-b5f0-c03ff53f54bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Malaysia Petroleum Management' or . = 'Malaysia Petroleum Management')]</value>
+      <webElementGuid>f2a17a8d-b470-4376-9499-e222523eee66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

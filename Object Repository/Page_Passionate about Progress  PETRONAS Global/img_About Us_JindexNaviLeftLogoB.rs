@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_About Us_JindexNaviLeftLogoB</name>
+   <tag></tag>
+   <elementGuidId>8ee876d5-2ba1-4a6c-b363-1caea7a6a50f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-wrapper']/div/div/div/a/img[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.JindexNaviLeftLogoB</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a8186247-bc79-4519-8de2-bf360862cbff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/themes/custom/petronas/images/petronas-logo-dark.svg</value>
+      <webElementGuid>5c08ff8b-4194-4374-a016-1de60b2578fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>JindexNaviLeftLogoB</value>
+      <webElementGuid>6edc6dc6-35fc-42f1-b165-4034270dbc58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;JindexNaviContainer active&quot;]/div[@class=&quot;JindexNaviContainerInner&quot;]/div[@class=&quot;JindexNaviLeft&quot;]/a[1]/img[@class=&quot;JindexNaviLeftLogoB&quot;]</value>
+      <webElementGuid>96c7f617-6960-4104-901f-8cb094342d52</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div/div/div/a/img[2]</value>
+      <webElementGuid>b01f3de2-1340-405b-a182-ceae4b1fc1f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img[2]</value>
+      <webElementGuid>ef9a4776-2242-42ee-aee4-111c2f82b6ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/themes/custom/petronas/images/petronas-logo-dark.svg']</value>
+      <webElementGuid>2aee3074-a58d-4667-aee4-3c528971bc2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
