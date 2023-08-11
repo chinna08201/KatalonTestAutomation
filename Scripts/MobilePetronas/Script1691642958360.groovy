@@ -17,20 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://www.petronas.com/')
-
-WebUI.click(findTestObject('Object Repository/Selfhealing/Page_Passionate about Progress  PETRONAS Global/button_Accept All Cookies'))
-
-WebUI.click(findTestObject('Object Repository/Selfhealing/Page_Passionate about Progress  PETRONAS Global/a_Whistleblowing_searchIcon'))
-
-WebUI.setText(findTestObject('Selfhealing/Page_Passionate about Progress  PETRONAS Global/input_x_search_query'), 'Pertronas')
-
-WebUI.sendKeys(findTestObject('Object Repository/Selfhealing/Page_Passionate about Progress  PETRONAS Global/input_x_search_query'), 
-    Keys.chord(Keys.ENTER))
-
-WebUI.click(findTestObject('Object Repository/Selfhealing/Page_Search  PETRONAS Global/a_Our Stories'))
-
-WebUI.closeBrowser()
-

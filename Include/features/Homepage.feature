@@ -34,8 +34,5 @@ WebUI.click(findTestObject('Object Repository/Homepage/Our Passion Link'))
 // Then user verifies Our Passion screen
 WebUI.verifyElementVisible(findTestObject('Object Repository/Our Passion Screen'))
 
-/*
- * Open a web browser to the Petronas homepage.
- */
 
    
